@@ -98,3 +98,24 @@
     padding-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
+.component:hover,
+.component1:hover,
+.component2:hover,
+.component3:hover,
+.component4:hover,
+.component5:hover,
+.component6:hover {
+  transform: scale(1.1);
+}
+.component,
+.component1,
+.component2,
+.component3,
+.component4,
+.component5,
+.component6 {
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+
