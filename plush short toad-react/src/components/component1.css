@@ -1,0 +1,9 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-image {
+  width: 50px;
+  margin-top: var(--dl-space-space-unit);
+  object-fit: cover;
+}

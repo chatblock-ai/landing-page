@@ -1,0 +1,9 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-image {
+  width: 250px;
+  object-fit: cover;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+}

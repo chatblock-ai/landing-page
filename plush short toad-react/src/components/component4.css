@@ -1,0 +1,10 @@
+.component4-container {
+  display: flex;
+  position: relative;
+}
+.component4-image {
+  width: 50px;
+  margin-top: var(--dl-space-space-unit);
+  object-fit: cover;
+  margin-left: var(--dl-space-space-unit);
+}
